@@ -8,14 +8,14 @@ Para realizar los análisis hemos utilizado la totalidad de la base de datos, ta
 
 Tres capetas principales
 
-  **00. Aplicación**: 
+**00. Aplicación**: 
     Encontraremos tres ficheros:
     
-   **R_Codigo**: En esta parte encontraremos las principales metodologias utilizadas para el desarrollo del articulo.            Principalmente el data cleaning, clusterización, y ACP.
+- **R_Codigo**: En esta parte encontraremos las principales metodologias utilizadas para el desarrollo del articulo.            Principalmente el data cleaning, clusterización, y ACP.
       
-   **Analisis exploratoria al detalle** En esta parte encontraremos graficas que nos ayudaron a entender el data, y las variables que forman este analisis.
+- **Analisis exploratoria al detalle** En esta parte encontraremos graficas que nos ayudaron a entender el data, y las variables que forman este analisis.
       
-   **Analisis_avanzado** Encontraremos toda la estructura que nos a permitido usar el algoritmo de classificación, y las herramientas necesarias para entender las caracteristicas principales del dato
+- **Analisis_avanzado** Encontraremos toda la estructura que nos a permitido usar el algoritmo de classificación, y las herramientas necesarias para entender las caracteristicas principales del dato
 
   **01. Data**:
     Encontraremos tanto el primer set de datos tratado, como los resultados despues del preproceso realizado.
