@@ -17,10 +17,10 @@ Tres capetas principales
       
 - **Analisis_avanzado** Encontraremos toda la estructura que nos a permitido usar el algoritmo de classificación, y las herramientas necesarias para entender las caracteristicas principales del dato
 
-  **01. Data**:
+**01. Data**:
     Encontraremos tanto el primer set de datos tratado, como los resultados despues del preproceso realizado.
 
-  **02. Resultados**
+**02. Resultados**
     Encontraremos algunas graficas que nos han sido utiles para la escritura del articulo desarrollado.
 
 
