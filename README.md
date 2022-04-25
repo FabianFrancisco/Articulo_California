@@ -13,7 +13,7 @@ Tres capetas principales
     
 - **R_Codigo**: En esta parte encontraremos las principales metodologias utilizadas para el desarrollo del articulo.            Principalmente el data cleaning, clusterización, y ACP.
       
-- **Analisis exploratoria al detalle** En esta parte encontraremos graficas que nos ayudaron a entender el data, y las variables que forman este analisis.
+- **Analisis exploratoria al detalle** En esta parte encontraremos graficas que nos ayudaron a entender el data, y las variables que forman este analisis. (en esta parte hemos intentado limpiar codigo y no se ha subido todas las lineas de codigo disponible. Solo las principales y más útiles)
       
 - **Analisis_avanzado** Encontraremos toda la estructura que nos a permitido usar el algoritmo de classificación, y las herramientas necesarias para entender las caracteristicas principales del dato
 
